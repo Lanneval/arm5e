@@ -353,13 +353,13 @@
   "arm5e.skill.mystery.verditiusMagic": "Magie Verditius",
   "arm5e.skill.mystery.cult": "Conn. culte Mystères ({option})",
 
-  "arm5e.skill.options.area": "Domaine",
-  "arm5e.skill.options.craft": "Type",
-  "arm5e.skill.options.profession": "Type",
-  "arm5e.skill.options.language": "Langue",
-  "arm5e.skill.options.organization": "Nom",
-  "arm5e.skill.options.supernatural": "(Type)",
-  "arm5e.skill.options.mysteryCult": "Nom",
+  "arm5e.skill.options.area": "Nom du Domaine",
+  "arm5e.skill.options.craft": "Nom du Type",
+  "arm5e.skill.options.profession": "Nom de la Profession",
+  "arm5e.skill.options.language": "Nom de la Langue",
+  "arm5e.skill.options.organization": "Nom de l'Organisation",
+  "arm5e.skill.options.supernatural": "Nom du Pouvoir",
+  "arm5e.skill.options.mysteryCult": "Nom du Culte",
 
   "arm5e.sheet.ageModifier": "Modificateur d'Âge",
   "arm5e.sheet.longevityRitual": "Rituel de longévité",
@@ -621,6 +621,8 @@
   "arm5e.spell.targets.baseSize.te": "10 m3 de matière pour le sable, la terre, la boue, l'argile etc. ; 1 m3 pour la pierre ; 30 cm3 pour les métaux ordinaires ; 3 cm3 pour les métaux précieux et les pierres précieuses",
   "arm5e.spell.targets.baseSize.vi": "Un sortilège, un objet ou une personne",
 
+  "arm5e.spell.targets.subcats.intMagic": "Magie Intellego",
+  
   "arm5e.spell.masteries.penetration": "Maîtrises de Pénétration",
 
   "arm5e.magic.arcaneConnection.days": "Dernières heures ou jours",
@@ -749,6 +751,9 @@
   "arm5e.notification.setDate": "La date actuelle a été fixée à {season} {year}",
   "arm5e.notification.synchActors": "Tous les acteurs ont été synchronisés avec {season} {year}",
 
+  "arm5e.canvas.buttons.setAura": "Configurer l'Aura",
+  "arm5e.canvas.buttons.clearAura": "Effacer l'Aura",
+  
   "arm5e.packs.abilities.name": "Compétences",
 
   "arm5e.sheet.source.ArM5": "Livre de Base",
@@ -827,6 +832,7 @@
 
   "arm5e.sheet.activeEffect.info.noedit": "Remarque : la création d'un effet actif n'est pas possible si l'élément appartient à un acteur, modifiez l'original ou faites une copie dans votre monde pour le modifier.",
   "arm5e.sheet.activeEffect.types.arts.affinity": "Affinité pour un Art",
+  "arm5e.sheet.activeEffect.types.arts.deficiency": "Art Déficient",
   "arm5e.sheet.activeEffect.types.vitals": "Vitaux",
   "arm5e.sheet.activeEffect.types.nullEffect": "Aucun Effet",
   "arm5e.sheet.activeEffect.types.characteristics": "Caractéristiques",
@@ -908,6 +914,7 @@
   "arm5e.aging.rollback.title": "Inverser l'effet du jet de vieillissant",
   "arm5e.aging.rollback.confirm": "Cette action annulera l'effet du vieillissement et supprimera l'entrée du journal. Êtes-vous sûr ?",
 
+  "arm5e.activity.activity": "Activité",
   "arm5e.activity.label": "Activités saisonnières",
   "arm5e.activity.diary": "Journal",
   "arm5e.activity.adventuring": "Aventure",
